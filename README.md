@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m a mathematics undergrad student who's currently working as a research assistant at the Universidad Veracruzana in Xalapa, Veracruz, Mexico.
+- 💻 I'm a Linux and Open Source advocate.
+- ⚛️ I'm a Quantum Computing enthusiast.
+
 <!--
 **aangcontreras/aangcontreras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
